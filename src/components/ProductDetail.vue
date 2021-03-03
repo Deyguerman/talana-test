@@ -9,7 +9,7 @@
       <q-card-section horizontal>
         <q-img
           class="col-5"
-          src="https://cdn.quasar.dev/img/parallax1.jpg"
+          :src="item.photo"
           style="width: 200px"
         />
 
